@@ -1,7 +1,7 @@
 function main(){
-    var myFirstName = "First name";
-    var myLastName = "Last name";
-    var myHomeTown = "Home Town";
+    var myFirstName = "Denis";
+    var myLastName = "Bukva";
+    var myHomeTown = "Sarajevo";
 
 
     return {
