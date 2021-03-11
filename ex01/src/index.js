@@ -9,7 +9,7 @@ else{
     var numOne;
     var numTwo;
 
-    quotient = numOne / numTwo
+    quotient = numOne / numTwo;
 }
 
 return quotient;
