@@ -1,16 +1,17 @@
 function main(){
-    var myRes = 75;
-        myRes ++
 
-    
+var myRes = 16;
+
+myRes --
 
 
-    return myRes;
+return myRes;
 }
 
 console.log(main());
 
 module.exports = main;
+
 
 
 
