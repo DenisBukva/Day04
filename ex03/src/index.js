@@ -2,7 +2,7 @@ function main(){
 
 var myRes = 16;
 
-myRes --;
+myRes--;
 
 
 return myRes;
